@@ -134,3 +134,7 @@ This project is to hold our scripts and configs to configure multilocal computin
 15. `chpl -o hello $CHPL_HOME/examples/hello6-taskpar-dist.chpl` - Make hello program
 16. `export GASNET_SPAWNFN=S` - Set GASNET_SPAWNFN
 17. `export GASNET_SSH_SERVERS="controller node1 node2 ..."` - Set GASNET_SSH_SERVER | Test without doing this step first as well. For this step make sure not to put the current node in the list
+
+
+# This project has moved:
+[GitLab Repository](https://gitlab.mattcompton.dev/matt/Beowulf-Cluster)
